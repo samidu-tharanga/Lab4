@@ -1,0 +1,21 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samidu-tharanga/Lab4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samidu-tharanga/Lab4/issues"
+  },
+  "homepage": "https://github.com/samidu-tharanga/Lab4#readme"
+}
